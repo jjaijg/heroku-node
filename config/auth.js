@@ -1,5 +1,5 @@
 if (process.env.PORT)
-    var url = "http://app-33533789-7d8b-410f-912e-02fea735c626.cleverapps.io/";
+    var url = "https://dry-beach-51358.herokuapp.com/";
 else
     var url = "http://localhost:3000";
 
